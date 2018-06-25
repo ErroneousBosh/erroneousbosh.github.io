@@ -1,0 +1,16 @@
+/* header customisations */
+header h1 {
+	font-size: 24px;
+	font-weight: normal;
+	color: grey;
+}
+
+header h2 {
+	font-size: 36px;
+	font-weight: 700;
+	color: black;
+}
+
+header {
+	padding-bottom: 0px;
+}
