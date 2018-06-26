@@ -17,12 +17,18 @@ header h3 {
 }
 
 header {
-	padding-bottom: 0px;
+	padding: 0px;
+	background: url(/media/back.png) no-repeat;
+	border-bottom: 2px solid #ccc;
 }
 
 .inner {
-	width: 780px;
+	width: 760px;
 }
 
-body {
+
+#main_content {
+	padding: 12px;
 	color: #333;
+	background-color: #f0f0f0;
+}
