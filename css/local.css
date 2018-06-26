@@ -11,6 +11,18 @@ header h2 {
 	color: black;
 }
 
+header h3 {
+	color: grey;
+	font-weight: light;
+}
+
 header {
 	padding-bottom: 0px;
 }
+
+.inner {
+	width: 780px;
+}
+
+body {
+	color: #333;
